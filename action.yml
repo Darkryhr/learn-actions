@@ -1,0 +1,6 @@
+name: 'Hello world'
+author: 'Gabriel Lellouche'
+
+runs:
+  using: 'node16'
+  main: 'index.js'
